@@ -9,3 +9,7 @@ Answer: It can be used in journalism. There are many datasets that contain stori
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging preserves the commit history by creating a new merge commit, keeping the branch structure intact. Rebasing rewrites history by applying commits from one branch onto another sequentially, creating a cleaner, linear history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Making effective visualizations of data.
