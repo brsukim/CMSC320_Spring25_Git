@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It can be used in journalism. There are many datasets that contain stories that we do not know until data scientists parse and analyse them.
