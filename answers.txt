@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 Q1: Why might we consider using Git?
 
 Answer: Because version control keeps things organized.
-=======
+
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: It can be used in journalism. There are many datasets that contain stories that we do not know until data scientists parse and analyse them.
->>>>>>> q2
